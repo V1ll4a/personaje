@@ -52,11 +52,11 @@ ctx.rotate(-this.angle*Math.PI/180)
 }
 let Jeoirginha = new Personaje(200,100,0,50)
 Jeoirginha.dibujarse();
-let Pablito = new Personaje(200,300,45,50)
+let Pablito = new Personaje(200,300,45,30)
 Pablito.dibujarse();
-let Pablo = new Personaje(200,100,-45,50)
+let Pablo = new Personaje(200,100,-45,90)
 Jeoirginha.dibujarse();
-let Josu = new Personaje(200,300,180,50)
+let Josu = new Personaje(200,300,180,70)
 Pablito.dibujarse();
 
 let contenedor =  document.querySelector("#contenedor")
