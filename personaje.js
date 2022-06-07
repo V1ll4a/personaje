@@ -60,4 +60,4 @@ let Josu = new Personaje(200,300,180,50)
 Pablito.dibujarse();
 
 let contenedor =  document.querySelector("#contenedor")
-contenedor.innerHTML = "Jiorginha y Pablito :D";
+contenedor.innerHTML = "Jiorginha, Pablito, Josu, El Sam :D";
